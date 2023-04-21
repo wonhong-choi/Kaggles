@@ -1,0 +1,8 @@
+/SpaceshipTitanic/catboost_info
+/SpaceshipTitanic/*.zip
+/SpaceshipTitanic/*.csv
+
+/Titanic/catboost_info
+/Titanic/mlruns
+/Titanic/*.zip
+/Titanic/*.csv
